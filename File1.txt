@@ -3,4 +3,6 @@ This is line 2
 This is line 3
 This is the first line inserted from branch2
 This is the second line inserted from branch2
+Inserting line from branch 1
+Inserting second line from branch 2
 This is line 4
