@@ -1,4 +1,6 @@
 This is line one
 This is line 2
 This is line 3
+Inserting line from branch 1
+Inserting second line from branch 2
 This is line 4
